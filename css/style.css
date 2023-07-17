@@ -1,0 +1,13 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: 'Roboto Serif', serif;
+    line-height: 1.5;
+    text-align: justify;
+}
